@@ -148,11 +148,7 @@
                               $benzema = new PemainBola("jangan telat ya boss ");
                               echo $benzema->getNama() . "<br>";
                               ?>
-                  <?php  if ($_POST['hari'] == "kamis"):?>
-                        <a href="hasil.html" class="btn btn-primary">cek antrian</a>
-                  <?php else: ?>
-                        <a href="hasil2.html" class="btn btn-primary">cek antrian</a>
-                  <?php endif; ?>
+                 
                   </div>
                   </div>
                   
